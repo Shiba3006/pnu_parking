@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "501116146845",
+    "firebase_url": "https://pnu-parking-default-rtdb.firebaseio.com",
+    "project_id": "pnu-parking",
+    "storage_bucket": "pnu-parking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501116146845:android:3a0d7e50fd2899b8747074",
+        "android_client_info": {
+          "package_name": "com.pnu.pnu_parking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe-VXKZVvcGAi4nCkWxVcr7RvAdP1JMB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

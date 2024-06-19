@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCw0x3S1lScqT_roX7zTIml0A2B4iaFuAM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>501116146845</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pnuParking.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>pnu-parking</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pnu-parking.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:501116146845:ios:3497b8e366019160747074</string>
+	<key>DATABASE_URL</key>
+	<string>https://pnu-parking-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
