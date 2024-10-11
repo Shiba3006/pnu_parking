@@ -1,16 +1,6 @@
-# pnu_parking
-
-A new Flutter project.
-
+# BMI Calculator
+## An app serve parking system using ESP device cenected with the app by realtime firebase.
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### You can dowload now from google play: https://play.google.com/store/apps/details?id=com.pnu.pnu_parking
+## Authors
+Just.shiba3006@gmail.com
